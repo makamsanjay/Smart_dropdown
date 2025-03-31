@@ -1,0 +1,76 @@
+{
+  "countries": {
+    "India": {
+      "activities": ["Study", "Work", "Tourism"],
+      "Study": {
+        "Engineering": ["IIT", "NIT", "BITS"],
+        "Medicine": ["AIIMS", "CMC Vellore", "MC"],
+        "Business": ["IIM", "MBA"]
+      },
+      "Work": {
+        "IT": ["Tata Consultancy Services", "Infosys", "Wipro"],
+        "Finance": ["HDFC Bank", "ICICI Bank", "SBI Bank"],
+        "Healthcare": ["Apollo Hospitals", "Fortis Healthcare", "Govt Healthcare"]
+      },
+      "Tourism": {
+        "Delhi": ["Taj Hotel", "India Gate", "Local Market"],
+        "Goa": ["Beaches", "Nightlife", "Sea Food"],
+        "Kerala": ["Backwaters", "Ayurveda", "Temples"]
+      }
+    },
+    "USA": {
+      "activities": ["Study", "Work", "Tourism"],
+      "Study": {
+        "Computer Science": ["MIT", "Stanford", "RIT"],
+        "Medicine": ["Harvard Medical School", "Johns Hopkins", "UR"],
+        "Law": ["Yale Law School", "Harvard Law School", "Stanford Law School"]
+      },
+      "Work": {
+        "Software": ["Google", "Apple", "Microsoft"],
+        "Finance": ["Goldman Sachs", "JPMorgan Chase", "Morgan Stanley"],
+        "Bussiness": ["NJ", "NY", "DC"]
+      },
+      "Tourism": {
+        "New York": ["Statue of Liberty", "Central Park", "Times Square"],
+        "Los Angeles": ["Hollywood", "Santa Monica", "Disneyland"],
+        "DC": ["National Gallery of Art", "International Spy Museum", "Historic buildings"]
+      }
+    },
+    "UK": {
+      "activities": ["Study", "Work", "Tourism"],
+      "Study": {
+        "Engineering": ["Imperial College London", "University of Cambridge", "University of Oxford"],
+        "Arts": ["Royal College of Art", "University of the Arts London", "Goldsmiths"],
+        "Business": ["London Business School", "University of Cambridge", "University of Oxford"]
+      },
+      "Work": {
+        "Finance": ["HSBC", "Barclays", "Lloyds Banking Group"],
+        "Healthcare": ["NHS", "Bupa", "HCA Healthcare"],
+        "Technology": ["ARM Holdings", "DeepMind", "Improbable"]
+      },
+      "Tourism": {
+        "London": ["Big Ben", "London Eye", "Buckingham Palace"],
+        "Edinburgh": ["Edinburgh Castle", "Royal Mile", "Arthur's Seat"],
+        "Stonehenge": ["Visitor Center", "Stone Circle", "Amesbury"]
+      }
+    },
+    "Australia": {
+      "activities": ["Study", "Work", "Tourism"],
+      "Study": {
+        "Engineering": ["University of Melbourne", "University of Sydney", "Australian National University"],
+        "Medicine": ["University of Sydney", "University of Melbourne", "Monash University"],
+        "Arts": ["University of Melbourne", "University of Sydney", "RMIT University"]
+      },
+      "Work": {
+        "IT": ["Atlassian", "Canva", "WiseTech Global"],
+        "Finance": ["Commonwealth Bank", "ANZ", "Westpac"],
+        "Healthcare": ["Royal Melbourne Hospital", "St Vincent's Hospital", "Royal Prince Alfred Hospital"]
+      },
+      "Tourism": {
+        "Sydney": ["Sydney Opera House", "Bondi Beach", "Harbour Bridge"],
+        "Melbourne": ["Federation Square", "Great Ocean Road", "Phillip Island"],
+        "Great Barrier Reef": ["Cairns", "Whitsunday Islands", "Port Douglas"]
+      }
+    }
+  }
+}
